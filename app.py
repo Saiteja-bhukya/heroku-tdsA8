@@ -12,7 +12,7 @@ def user_input_features():
     if num1 % 2 == 0:
         return f'{num1} is Even'
     else:
-        return f'{num1} id Odd'
+        return f'{num1} is Odd'
 
 result = user_input_features()
 
